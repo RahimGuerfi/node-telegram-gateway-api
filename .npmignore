@@ -1,0 +1,6 @@
+src/
+tests/
+node_modules/
+*.ts
+*.test.ts
+!*.d.ts

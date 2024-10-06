@@ -1,0 +1,36 @@
+{
+  "name": "node-telegram-gateway-api",
+  "version": "1.0.0",
+  "description": "A Node.js package to interact with the Telegram Gateway API for sending verification messages and checking verification status.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "gateway",
+    "api",
+    "verification",
+    "messages",
+    "typescript",
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RahimGuerfi/node-telegram-gateway-api"
+  },
+  "bugs": {
+    "url": "https://github.com/RahimGuerfi/node-telegram-gateway-api/issues"
+  },
+  "homepage": "https://github.com/RahimGuerfi/node-telegram-gateway-api",
+  "author": "RahimGuerfi",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^22.7.4",
+    "axios": "^1.7.7",
+    "typescript": "^5.6.2"
+  }
+}
