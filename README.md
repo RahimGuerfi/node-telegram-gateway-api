@@ -7,7 +7,7 @@ A Node.js client for interacting with the [Telegram Gateway API](https://core.te
 Install the package using npm:
 
 ```bash
-npm install telegram-gateway-api-client
+npm install node-telegram-gateway-api
 ```
 
 ## 🚀 Getting Started
