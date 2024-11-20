@@ -15,7 +15,7 @@ npm install node-telegram-gateway-api
 First, you need to obtain your API key from the Telegram Gateway API account settings. This key will be used to authorize all requests.
 
 ```ts
-import { TelegramGateway } from "telegram-gateway-api-client";
+import { TelegramGateway } from "node-telegram-gateway-api";
 
 const apiKey = "YOUR_TELEGRAM_API_KEY";
 const client = new TelegramGateway(apiKey);
